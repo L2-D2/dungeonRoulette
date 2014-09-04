@@ -1,0 +1,10 @@
+element,x,y,w,h,font,size,hSquish,colorHex
+ImgCardSize,0,0,450,900,,,,
+ImgTerrainNorth,0,0,450,450,,,,
+ImgTerrainSouth,0,450,450,450,,,,
+TextBonusNorth,0,0,10,10,Sansation-Regular-48.vlw,40,1,000000
+TextBonusSouth,0,0,10,10,Sansation-Regular-48.vlw,40,1,000000
+ImgIconNorthOne,50,50,100,100,,,,
+ImgIconNorthTwo,155,50,100,100,,,,
+ImgIconSouthOne,300,750,100,100,,,,
+ImgIconSouthTwo,195,750,100,100,,,,
