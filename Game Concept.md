@@ -1,17 +1,20 @@
 Game Concept
 ============
+
 Boardgame action rpg race with loot.
 
-** How to Win **
+**How to Win**
+
 Beat a (or possibly X) boss(es)
 
 
 Combat
 ======
+
 Roll for initiative (see if you go before the monster)
 Roll appropriate attack die (for bow, sword, sheild)
 
-** Attack Die **
+**Attack Die**
  * d12's
  * 12 is crit 2x dmg
  * 1 is fail
@@ -21,12 +24,12 @@ Roll appropriate attack die (for bow, sword, sheild)
 Items
 =====
 
-** Weapons **
+**Weapons**
  * Swords
  * Sheilds
  * Bows
 
-** Swords **
+**Swords**
  * Dagger
  * Longsword
  * Broadsword
@@ -37,7 +40,7 @@ Each Sword has:
  * AttachmentA
  * AttachmentB
 
-** Shields **
+**Shields**
  * Buckler
  * Kite
  * Tower
@@ -48,7 +51,7 @@ Each Shield has:
  * Attachment A
  * Attachment B
 
-** Bows **
+**Bows**
  * Shortbow
  * Longbow
  * Crossbow
@@ -59,7 +62,7 @@ Each Bow has:
  * AttachmentA
  * AttachmentB
 
-** Small Items **
+**Small Items**
  * Potions
  * Trinkets
  * Rings
